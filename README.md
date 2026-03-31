@@ -1,4 +1,4 @@
-# Awesome Mitre ATT&CK™ Framework
+﻿# Awesome Mitre ATT&CK™ Framework
 
 > <img width="250" src="https://assets-global.website-files.com/5bc662b786ecfc12c8d29e0b/5bfdce88cd3820f7c5c21e02_mitre.png"/>
 
@@ -50,6 +50,7 @@
 - [Empire](https://github.com/EmpireProject/Empire) - Post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/) - Collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
 - [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) - Invoke-PSImage takes a PowerShell script and embeds the bytes of the script into the pixels of a PNG image.
+- [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 750+ structured cybersecurity skills for AI agents, comprehensively mapped to all 14 MITRE ATT&CK Enterprise tactics and 200+ techniques.
 
 #### Purple Team
 - [RE:TERNAL](https://github.com/d3vzer0/reternal-quickstart) - RE:TERNAL is a centralised purple team simulation platform. Reternal uses agents installed on a simulation network to execute various known red-teaming techniques in order to test blue-teaming capabilities.
